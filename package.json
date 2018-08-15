@@ -13,11 +13,10 @@
     "test": "vows --spec"
   },
   "engines": {
-    "node": ">= 0.4"
+    "node": "8.2.1"
   },
   "dependencies": {},
   "devDependencies": {
-    "vows": "0.6.x"
+    "vows": "0.8.2"
   }
 }
-
